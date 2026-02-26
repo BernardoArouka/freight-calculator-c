@@ -41,7 +41,8 @@ Bash
 ./calculadora
 
 Fluxograma do Sistema
-O fluxo lógico do programa segue as etapas de inicialização, entrada de dados (NCM), validação, seleção regional, processamento de datas e saída de dados (resumo final). <img width="549" height="450" alt="flowchart" src="https://github.com/user-attachments/assets/ae907552-6d6d-48a7-b657-eefc1fff9d21" />
+O fluxo lógico do programa segue as etapas de inicialização, entrada de dados (NCM), validação, seleção regional, processamento de datas e saída de dados (resumo final).
+<img width="549" height="450" alt="flowchart" src="https://github.com/user-attachments/assets/ae907552-6d6d-48a7-b657-eefc1fff9d21" />
 
 ---
 Freight and Order Calculator in C
@@ -84,5 +85,5 @@ Bash
 ./calculator
 
 System Flowchart
-The program's logical flow follows the stages of initialization, data entry (NCM), validation, regional selection, date processing, and data output (final summary).<img width="549" height="450" alt="flowchart" src="https://github.com/user-attachments/assets/8eff53e7-2d48-42ee-a05e-352945e05da6" />
-
+The program's logical flow follows the stages of initialization, data entry (NCM), validation, regional selection, date processing, and data output (final summary).
+<img width="549" height="450" alt="flowchart" src="https://github.com/user-attachments/assets/8eff53e7-2d48-42ee-a05e-352945e05da6" />

@@ -1,7 +1,7 @@
 # freight-calculator-c
-*Projeto acadêmico - Engenharia de Computação (UVA)*
----
 Calculadora de fretes em C
+---
+Projeto acadêmico - Engenharia de Computação (UVA)
 
 Sobre:
 Sistema desenvolvido em linguagem C para simulação de pedidos em loja online, realizando o cálculo automático de fretes e estimativa de data de entrega com base na região selecionada.
@@ -44,10 +44,11 @@ Fluxograma do Sistema
 O fluxo lógico do programa segue as etapas de inicialização, entrada de dados (NCM), validação, seleção regional, processamento de datas e saída de dados (resumo final). <img width="549" height="450" alt="flowchart" src="https://github.com/user-attachments/assets/ae907552-6d6d-48a7-b657-eefc1fff9d21" />
 
 ---
-
-*Academic Project - Computer Engineering (UVA)*
----
 Freight and Order Calculator in C
+---
+Academic Project - Computer Engineering (UVA)
+
+About
 System developed in C for online store order simulation, featuring automatic freight calculation and delivery date estimation based on the selected region.
 
 Features

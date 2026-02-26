@@ -71,8 +71,13 @@ How to Run
 Compilation:
 Ensure you have a C compiler installed (GCC, Clang, or MinGW).
 
+Copy the source code to a file named main.c.
+
+Open the terminal and compile the file:
+
 Bash
 gcc main.c -o calculator
+
 Execution:
 
 Bash

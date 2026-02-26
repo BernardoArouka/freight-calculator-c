@@ -86,4 +86,3 @@ Bash
 
 System Flowchart
 The program's logical flow follows the stages of initialization, data entry (NCM), validation, regional selection, date processing, and data output (final summary).
-<img width="549" height="450" alt="flowchart" src="https://github.com/user-attachments/assets/8eff53e7-2d48-42ee-a05e-352945e05da6" />
